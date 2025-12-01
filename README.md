@@ -59,12 +59,18 @@
 ## 📊 GitHub Stats
 
 <!-- Most Used Languages -->
+<!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TwilightVoyager777" />
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api?username=TwilightVoyager777&amp;cache_seconds=86400" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TwilightVoyager777&layout=compact&langs_count=8&card_width=320" />
+
+<!-- Most Used Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=TwilightVoyager777&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;cache_seconds=86400" />
 </a>
+
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
