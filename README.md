@@ -1,20 +1,26 @@
 # Hi there, I'm TwilightVoyager777 👋
 
 ![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Welcome+to+my+GitHub!;Passionate+Software+Developer;AI+%7C+Cloud+%7C+Open+Source+Lover)
+> "Good engineers build systems. Great engineers build systems that build systems."
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 🎯 **Software Engineer | AI-Native Developer | Open Source Enthusiast**
 
-🎯 **Software Engineer | Open Source Enthusiast | AI & Cloud Computing Explorer**
-
-- 🌍 Based in **LosAngles America**
-- 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Learning **SpringBoot, iOS, and Machine Learning**
-- 💬 Ask me about **Block Chain, Backend Development, and DevOps**
-- ⚡ Fun fact: **I love automating everything!**
-
+- 🌍 Based in **Los Angeles, USA**
+- 🔭 Building **AI-powered full-stack applications**
+- 🌱 Exploring **AI agents, LLM applications, and system design**
+- 💬 Ask me about **Backend, DevOps, and AI systems**
+- ⚡ Fun fact: **I automate everything I can**
 🚀 Let's build something amazing together! 😊
 
----
+## ⚡ AI-Native Developer | Vibe Coding
+
+- 🤖 Practicing **Vibe Coding** — building software through AI-assisted workflows  
+- 🧠 Leveraging **Codex, Claude Code, and AI agents** to develop full-stack systems  
+- 🚀 Shipping projects from **idea → prompt → production**  
+- 🛠 Focus on **automation-first engineering** and rapid prototyping  
+- 🔄 Workflow: *Prompt → Generate → Validate → Iterate*
+
+> "The hottest programming language is English." — Andrej Karpathy
 
 ## 🔥 Languages | Frameworks | Tools 🔥
 
@@ -58,17 +64,16 @@
 
 ## 📊 GitHub Stats
 
-<!-- Most Used Languages -->
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=TwilightVoyager777&amp;cache_seconds=86400" />
+       src="https://github-readme-stats-gamma-dusky-37.vercel.app/api?username=TwilightVoyager777&show_icons=true&include_all_commits=true&cache_seconds=86400" />
 </a>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=TwilightVoyager777&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;cache_seconds=86400" />
+       src="https://github-readme-stats-gamma-dusky-37.vercel.app/api/top-langs?username=TwilightVoyager777&layout=compact&langs_count=8&card_width=320&cache_seconds=86400" />
 </a>
 
 
